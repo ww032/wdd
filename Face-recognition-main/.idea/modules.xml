@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Face-recognition-main.iml" filepath="$PROJECT_DIR$/.idea/Face-recognition-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesystem/common/common.iml" filepath="$PROJECT_DIR$/facesystem/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesystem/eurake/eurake.iml" filepath="$PROJECT_DIR$/facesystem/eurake/eurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesystem/face_corn/face_corn.iml" filepath="$PROJECT_DIR$/facesystem/face_corn/face_corn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesystem/face_warehouse/face_warehouse.iml" filepath="$PROJECT_DIR$/facesystem/face_warehouse/face_warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesystem/facesystem.iml" filepath="$PROJECT_DIR$/facesystem/facesystem.iml" />
+    </modules>
+  </component>
+</project>
